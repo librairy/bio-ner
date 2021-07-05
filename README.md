@@ -96,7 +96,7 @@ One model was proposed for each of the entity classes: Diseases, Chemicals and G
 Further details are described on: [bio-nlp/models](https://github.com/alvaroalon2/bio-nlp/tree/master/models). Models could be leveraged in other required systems if desired.
 
 ### Fine-tuning
-Fine-tuning process was done in Google Collab using a TPU. For that purpose [Fine_tuning.ipynb](https://github.com/librairy/bio-ner/blob/master/fine-tuning/NER4COVID.ipynb) Jupyter Notebook is proposed which make use of the scripts found on [bio-nlp/fine-tuning](https://github.com/librairy/bio-ner/blob/master/fine-tuning/) which has been partially adapted from the originally proposed in [BioBERT repository](https://github.com/dmis-lab/biobert-pytorch) in order to allow TPU execution and the use of a newer version of huggingface-transformers.
+Fine-tuning process was done in Google Collab using a TPU. For that purpose [Fine_tuning.ipynb](https://github.com/librairy/bio-ner/blob/master/fine-tuning/Fine_tuning.ipynb) Jupyter Notebook is proposed which make use of the scripts found on [bio-nlp/fine-tuning](https://github.com/librairy/bio-ner/blob/master/fine-tuning/) which has been partially adapted from the originally proposed in [BioBERT repository](https://github.com/dmis-lab/biobert-pytorch) in order to allow TPU execution and the use of a newer version of huggingface-transformers.
 
 ## Embedding visualization
 Details about visualization can be found on [bio-nlp/Embeddings](https://github.com/librairy/bio-ner/tree/master/Embeddings) along with an example.
