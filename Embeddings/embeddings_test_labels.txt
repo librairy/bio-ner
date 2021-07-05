@@ -1,0 +1,1025 @@
+term	Type
+atracurium	Chemical
+dienestrol	Chemical
+zofenopril and diuretics	Chemical
+renal function and ureteral injuries test diagnostic agents	Chemical
+voglibose	Chemical
+Technetium 99m compounds, skeletal system diagnostic radiopharmaceuticals	Chemical
+alanyl glutamine	Chemical
+pegfilgrastim	Chemical
+trolnitrate	Chemical
+cisplatin	Chemical
+ANTITHYROID PREPARATIONS	Chemical
+pravastatin	Chemical
+Magnesium antacid compound combinations	Chemical
+tioguanine	Chemical
+doxorubicin	Chemical
+influenza, live attenuated	Chemical
+ANALGESICS	Chemical
+sodium citrate	Chemical
+cerivastatin	Chemical
+ANTITHROMBOTIC AGENTS	Chemical
+glucose	Chemical
+RESPIRATORY SYSTEM DRUGS	Chemical
+salmeterol and fluticasone	Chemical
+Antimony compounds for treatment of leishmaniasis and trypanosomiasis	Chemical
+angiotensin II	Chemical
+eptotermin alfa	Chemical
+physostigmine	Chemical
+tamsulosin and solifenacin	Chemical
+melphalan	Chemical
+acetylsalicylic acid and corticosteroids	Chemical
+tetracaine, combinations	Chemical
+other nasal preparation combinations in ATC	Chemical
+emepronium	Chemical
+dihydralazine	Chemical
+formoterol and mometasone	Chemical
+thiosulfate	Chemical
+Enzymes FOR DISORDERS OF THE MUSCULO-SKELETAL SYSTEM	Chemical
+syrosingopine and diuretics	Chemical
+dexamethasone, combinations	Chemical
+Aminoquinoline antimalarials	Chemical
+fluorocholine(18F)	Chemical
+cinchocaine	Chemical
+nusinersen	Chemical
+empegfilgrastim	Chemical
+Platelet aggregation inhibitor combinations excl. heparin	Chemical
+betamethasone	Chemical
+tolonidine	Chemical
+methylthiouracil	Chemical
+mepindolol	Chemical
+glafenine	Chemical
+propyphenazone, combinations with psycholeptics	Chemical
+ANTIARRHYTHMICS, CLASS I AND III	Chemical
+ramipril and felodipine	Chemical
+quinisocaine	Chemical
+Classification	Chemical
+Amino acids, incl. combinations with polypeptides	Chemical
+lofepramine	Chemical
+methoserpidine	Chemical
+nicotinyl methylamide	Chemical
+droxicam	Chemical
+trypsin, combinations	Chemical
+technetium (99mTc) furifosmin	Chemical
+ordinary salt combinations	Chemical
+briakinumab	Chemical
+pargyline	Chemical
+cyproterone and estrogen	Chemical
+ichtasol	Chemical
+delapril and diuretics	Chemical
+fimasartan and diuretics	Chemical
+fluphenazine	Chemical
+cyclandelate	Chemical
+flurbiprofen	Chemical
+artesunate	Chemical
+Technetium 99m compounds, cardiovascular system diagnostic radiopharmaceuticals	Chemical
+ANTIFUNGALS FOR DERMATOLOGICAL USE	Chemical
+proscillaridin	Chemical
+doxofylline	Chemical
+phenazocine	Chemical
+pimavanserin	Chemical
+chlortetracycline	Chemical
+regorafenib	Chemical
+Technetium 99m particles and colloid diagnostic radiopharmaceuticals for hepatic and reticulo endothelial system	Chemical
+propacetamol	Chemical
+bopindolol	Chemical
+malathion	Chemical
+tyrothricin	Chemical
+masoprocol	Chemical
+torasemide	Chemical
+liver functional capacity test diagnostic agents	Chemical
+gabapentin	Chemical
+tetracycline	Chemical
+dexamethasone	Chemical
+trimegestone and estrogen	Chemical
+lomitapide	Chemical
+other meningococcal polyvalent purified polysaccharides antigen	Chemical
+benidipine	Chemical
+Incontinence equipment	Chemical
+fenbendazole	Chemical
+Other antibiotics for topical use in ATC	Chemical
+feprazone	Chemical
+Various pain palliation radiopharmaceuticals	Chemical
+Other antipsychotics in ATC	Chemical
+cinolazepam	Chemical
+belatacept	Chemical
+Peripheral opioid receptor antagonists	Chemical
+Milk substitutes	Chemical
+magnesium chloride	Chemical
+xaliproden	Chemical
+ibopamine	Chemical
+Nicotinic acid and derivatives, peripheral vasodilators	Chemical
+dextropropoxyphene, combinations with psycholeptics	Chemical
+linsidomine	Chemical
+nedocromil	Chemical
+Beta blocking agents, non-selective, and vasodilators	Chemical
+methylcellulose	Chemical
+magaldrate and antiflatulents	Chemical
+oxiconazole	Chemical
+diamorphine	Chemical
+lidocaine	Chemical
+chlorprothixene	Chemical
+orlistat	Chemical
+azelastine	Chemical
+nifurzide	Chemical
+ANTIADRENAL PREPARATIONS	Chemical
+aldesulfone sodium	Chemical
+fenoprofen	Chemical
+reviparin	Chemical
+protiofate	Chemical
+regadenoson	Chemical
+hydroflumethiazide and potassium	Chemical
+bempedoic acid	Chemical
+hydrogen peroxide	Chemical
+OTHER ANTINEOPLASTIC AGENTS in ATC	Chemical
+cinnarizine, combinations	Chemical
+neomycin	Chemical
+ammonium chloride	Chemical
+Chemicals and reagents for analysis	Chemical
+ANTIPRURITICS, INCL. ANTIHISTAMINES, ANESTHETICS, ETC.	Chemical
+exenatide	Chemical
+Calcitonin preparations	Chemical
+biguanide blood glucose lower drugs	Chemical
+suprofen	Chemical
+lidocaine	Chemical
+Androgens for topical use	Chemical
+sodium glycerophosphate	Chemical
+ACE inhibitors and calcium channel blockers	Chemical
+diphemanil	Chemical
+vitamin C combinations	Chemical
+bacitracin	Chemical
+clemastine	Chemical
+benzoyl peroxide, combinations	Chemical
+S-(Hydrogen 3-hydroxy-3-methylglutaryl)coenzyme A	Chemical
+Carnitinium	Chemical
+3-Hydroxyanthranilic acid	Chemical
+3-Hydroxyisobutyric acid	Chemical
+3-Hydroxykynurenine	Chemical
+3-(3-Hydroxyphenyl)propanoic acid	Chemical
+3-Oxoadipic acid	Chemical
+Acetoacetic acid	Chemical
+3-Mercaptopyruvic acid	Chemical
+3-Hydroxybenzaldehyde	Chemical
+3-Hydroxybenzyl alcohol	Chemical
+Phosphohydroxypyruvic acid	Chemical
+DL-Serine dihydrogen phosphate	Chemical
+3-Phenylpropionic acid	Chemical
+3-Pyridineacetic acid	Chemical
+2-Amino-3-sulfinopropanoic acid	Chemical
+3-Ureidopropionic acid	Chemical
+4-Aminobutanal	Chemical
+gamma-Aminobutyric acid	Chemical
+4-Carboxymethylenebut-2-en-4-olide	Chemical
+Tiformin	Chemical
+4-Hydroxy-2-oxopentanoic acid	Chemical
+4-Hydroxybenzyl alcohol	Chemical
+4-Hydroxybenzaldehyde	Chemical
+4-Hydroxyphenylacetic acid	Chemical
+Imidazol-4-one-5-propionic acid	Chemical
+4-Methylpentanal	Chemical
+4'-Phosphopantothenate	Chemical
+4-Trimethylammoniobutanal	Chemical
+4-Trimethylammoniobutanoate	Chemical
+4-Hydroxybenzoic acid	Chemical
+Aminolevulinic acid	Chemical
+5-Aminovaleric acid	Chemical
+5-Hydroxytryptophan	Chemical
+beta-D-Ribofuranose, 1-(6-amino-9H-purin-9-yl)-1-deoxy-5-S-methyl-5-thio-	Chemical
+(5-Amino-3,4-dihydroxyoxolan-2-yl)methyl dihydrogen phosphate	Chemical
+5,6,7,8-Tetrahydropteridine	Chemical
+2,3,4,6-Tetrahydroxy-5-oxohexanoic acid	Chemical
+8-Amino-7-oxononanoic acid	Chemical
+1,2-Ethanediol	Chemical
+Acetate	Chemical
+Acetic acid	Chemical
+Acetaldehyde	Chemical
+Acetamide	Chemical
+Acetoin	Chemical
+Acetone	Chemical
+4-[[3-Acetamido-4,5-dihydroxy-6-(hydroxymethyl)oxan-2-yl]amino]-2-amino-4-oxobutanoic acid	Chemical
+N-Acetylglutamic acid	Chemical
+Acetylphosphate	Chemical
+Acetylcholine	Chemical
+3-(Acetyloxy)-2-aminopropanoic acid	Chemical
+Adenine	Chemical
+Adenosine diphosphate ribose	Chemical
+Bis(5'-adenylyl) diphosphate	Chemical
+Adipic acid	Chemical
+Agmatine	Chemical
+Allantoic acid	Chemical
+Allantoin	Chemical
+Hexose	Chemical
+Allysine	Chemical
+7-[3-(3-Hydroxyoct-1-enyl)-2,6-dioxabicyclo[3.1.1]heptan-4-yl]hept-5-enoic acid	Chemical
+Topiglan	Chemical
+Aminoacetone	Chemical
+2-Amino-3-oxobutanoic acid	Chemical
+Aminoparathion	Chemical
+Ammonia	Chemical
+Ammonium ion	Chemical
+9-(5-O-Phosphonopentofuranosyl)-9H-purin-6-amine	Chemical
+Anthranilic acid	Chemical
+Pentose	Chemical
+Arsenic acid	Chemical
+DL-Asparagine	Chemical
+Quinacrine	Chemical
+beta-Alanine	Chemical
+Benzaldehyde	Chemical
+Benzene	Chemical
+Benzoate	Chemical
+Benzoic acid	Chemical
+Benzyl alcohol	Chemical
+N-[2,4-Dihydroxy-6-(hydroxymethyl)-5-[3,4,5-trihydroxy-6-(hydroxymethyl)oxan-2-yl]oxyoxan-3-yl]acetamide	Chemical
+Betaine	Chemical
+Trimethyl glycine	Chemical
+Betaine aldehyde	Chemical
+Biphenyl-2,3-diol	Chemical
+Bis(4-nitrophenyl) hydrogen phosphate	Chemical
+Blasticidin-S	Chemical
+Bromide ion	Chemical
+Hydrogen bromide	Chemical
+Butyraldehyde	Chemical
+2,3-Butanediol	Chemical
+1-Butanol	Chemical
+Butyric acid	Chemical
+Cadaverine	Chemical
+Acrasin	Chemical
+Carbamate	Chemical
+Carbamic acid	Chemical
+Carbamoyl phosphate	Chemical
+Ureidosuccinic acid	Disease
+Displaced fracture of lateral condyle of left tibia, subsequent encounter for closed fracture with delayed healing	Disease
+Pain in left arm	Disease
+Displaced spiral fracture of shaft of ulna, left arm, subsequent encounter for closed fracture with nonunion	Disease
+Other fracture of lower end of left tibia, subsequent encounter for open fracture type I or II with malunion	Disease
+Poisoning by unspecified psychodysleptics [hallucinogens], accidental (unintentional), subsequent encounter	Disease
+Unspecified pedal cyclist injured in collision with fixed or stationary object in nontraffic accident	Disease
+Other fracture of upper end of left tibia, subsequent encounter for open fracture type I or II with malunion	Disease
+Pedal cycle driver injured in collision with fixed or stationary object in nontraffic accident	Disease
+Fibrosis due to internal orthopedic prosthetic devices, implants and grafts, initial encounter	Disease
+Bitten by pig, initial encounter	Disease
+Other injury of flexor muscle, fascia and tendon of left ring finger at forearm level, sequela	Disease
+Body mass index [BMI] pediatric, less than 5th percentile for age	Disease
+Corrosion of unspecified degree of unspecified ear [any part, except ear drum], initial encounter	Disease
+Foreign body on external eye, part unspecified, right eye, initial encounter	Disease
+Toxic effect of contact with other venomous plant, intentional self-harm	Disease
+Hypothyroidism due to medicaments and other exogenous substances	Disease
+Contusion, laceration, and hemorrhage of brainstem with loss of consciousness of 30 minutes or less, initial encounter	Disease
+Subluxation of unspecified lumbar vertebra, subsequent encounter	Disease
+Iliac crest spur, left hip	Disease
+Gluteal tendinitis, left hip	Disease
+Nondisplaced fracture of lateral end of right clavicle, subsequent encounter for fracture with delayed healing	Disease
+Partial traumatic amputation of one left lesser toe	Disease
+Deep phlebothrombosis in pregnancy	Disease
+Other specified bursopathies, right hip	Disease
+Tuberculosis of intrathoracic lymph nodes	Disease
+Other specified injury of femoral artery, right leg, initial encounter	Disease
+Minor laceration of unspecified carotid artery, initial encounter	Disease
+Ciguatera fish poisoning, undetermined	Disease
+Pedestrian on skateboard injured in collision with pedal cycle, unspecified whether traffic or nontraffic accident, sequela	Disease
+Osteophyte, ankle and foot	Disease
+Diffuse large B-cell lymphoma, lymph nodes of inguinal region and lower limb	Disease
+Other specified injury of greater saphenous vein at hip and thigh level, right leg, initial encounter	Disease
+Photokeratitis, unspecified eye	Disease
+Vibratory urticaria	Disease
+Poisoning by antivaricose drugs, including sclerosing agents, accidental (unintentional), subsequent encounter	Disease
+Elevated urine levels of drugs, medicaments and biological substances	Disease
+Toxic effect of venom of caterpillars, assault, subsequent encounter	Disease
+Poisoning by antihyperlipidemic and antiarteriosclerotic drugs, accidental (unintentional), subsequent encounter	Disease
+Personal history of (corrected) cleft lip and palate	Disease
+Maternal care for other specified fetal problems, third trimester, not applicable or unspecified	Disease
+Other specified injuries of left hip, subsequent encounter	Disease
+Displacement of heart valve prosthesis, initial encounter	Disease
+Displaced fracture of acromial process, unspecified shoulder, initial encounter for closed fracture	Disease
+Abnormal findings on microbiological examination of urine	Disease
+Other injury of extensor muscle, fascia and tendon of right ring finger at forearm level, initial encounter	Disease
+Pregnancy with inconclusive fetal viability, fetus 2	Disease
+Other specified symptoms and signs involving the digestive system and abdomen	Disease
+Maternal care for excessive fetal growth, unspecified trimester, fetus 2	Disease
+Mixed disorder of acid-base balance	Disease
+Anterior cord syndrome at unspecified level of thoracic spinal cord, sequela	Disease
+Person on outside of car injured in collision with pick-up truck in nontraffic accident, subsequent encounter	Disease
+Displaced fracture of medial condyle of right humerus, initial encounter for closed fracture	Disease
+Other specified rheumatoid arthritis, right shoulder	Disease
+Salter-Harris Type I physeal fracture of upper end of radius, left arm, subsequent encounter for fracture with routine healing	Disease
+Gammaherpesviral mononucleosis	Disease
+Displaced transverse fracture of shaft of right radius, subsequent encounter for open fracture type I or II with routine healing	Disease
+Sprain of metatarsophalangeal joint of unspecified great toe, sequela	Disease
+Nondisplaced avulsion fracture of left ischium, subsequent encounter for fracture with delayed healing	Disease
+Other cardiac complications of anesthesia during pregnancy, first trimester	Disease
+Nondisplaced supracondylar fracture with intracondylar extension of lower end of right femur, sequela	Disease
+Subluxation of tarsometatarsal joint of unspecified foot, sequela	Disease
+Injury of lateral plantar nerve, left leg, subsequent encounter	Disease
+Unspecified fracture of third lumbar vertebra, initial encounter for open fracture	Disease
+Contaminated medical or biological substances	Disease
+Unspecified retinoschisis, bilateral	Disease
+Ischiocapsular ligament sprain of right hip, initial encounter	Disease
+Injury of deep peroneal nerve at ankle and foot level, left leg, subsequent encounter	Disease
+Traumatic rupture of left radial collateral ligament, subsequent encounter	Disease
+Cerebral infarction due to thrombosis of other precerebral artery	Disease
+Unspecified open wound of right front wall of thorax with penetration into thoracic cavity, sequela	Disease
+Injury of other nerves at lower leg level, left leg, initial encounter	Disease
+Unspecified open wound of right front wall of thorax without penetration into thoracic cavity, sequela	Disease
+Fracture of unspecified phalanx of left middle finger, subsequent encounter for fracture with nonunion	Disease
+Other nondisplaced fracture of upper end of left humerus, subsequent encounter for fracture with malunion	Disease
+Displaced fracture of body of right talus, subsequent encounter for fracture with nonunion	Disease
+Dislocation of C2/C3 cervical vertebrae, sequela	Disease
+Mumps with other complications	Disease
+Other specified injury of other blood vessels at lower leg level, right leg, sequela	Disease
+Unspecified maternal infectious and parasitic disease complicating pregnancy, childbirth and the puerperium	Disease
+Unspecified place in nursing home as the place of occurrence of the external cause	Disease
+Human immunodeficiency virus [HIV] disease complicating pregnancy, childbirth and the puerperium	Disease
+Contusion of right great toe with damage to nail, sequela	Disease
+Other fracture of fourth thoracic vertebra, subsequent encounter for fracture with routine healing	Disease
+Stress fracture, left ulna, subsequent encounter for fracture with delayed healing	Disease
+Toxic effect of homologues of benzene, assault, sequela	Disease
+Infection following a procedure, other surgical site, subsequent encounter	Disease
+Burn of first degree of multiple sites of right ankle and foot, initial encounter	Disease
+Encounter for adjustment and management of implanted nervous system device	Disease
+Carcinoma in situ of right eye	Disease
+Furuncle of other sites	Disease
+Displaced spiral fracture of shaft of right tibia, sequela	Disease
+Unspecified superficial injury of unspecified lower leg	Disease
+Displaced comminuted fracture of right patella, sequela	Disease
+Vitreous degeneration, left eye	Disease
+Hemorrhagic choroidal detachment	Disease
+Legal intervention involving injury by explosive shell, law enforcement official injured, initial encounter	Disease
+Unspecified fracture of unspecified forearm, subsequent encounter for open fracture type I or II with routine healing	Disease
+Partial physeal arrest, left proximal humerus	Disease
+Displaced spiral fracture of shaft of ulna, right arm, subsequent encounter for closed fracture with malunion	Disease
+Fibrous dysplasia (monostotic), forearm	Disease
+Non-pressure chronic ulcer of other part of unspecified lower leg	Disease
+Sprain of other specified parts of knee	Disease
+Hemoglobin E-beta thalassemia	Disease
+Unilateral primary osteoarthritis, left hip	Disease
+Driver of military vehicle injured in traffic accident	Disease
+Thalassemia minor	Disease
+Other hypertrophic osteoarthropathy, left lower leg	Disease
+Unspecified physeal fracture of upper end of radius, right arm	Disease
+Toxic effect of other halogen derivatives of aromatic hydrocarbons, assault	Disease
+Genital tract and pelvic infection following incomplete spontaneous abortion	Disease
+Toxic effect of chlorofluorocarbons, assault	Disease
+obsolete soft tissue disease	Disease
+susceptibility to sarcoidosis 3	Disease
+toxic shock syndrome	Disease
+auditory system benign neoplasm	Disease
+autosomal recessive congenital ichthyosis 7	Disease
+syndromic microphthalmia	Disease
+alternating exotropia	Disease
+streptococcal meningitis	Disease
+congenital myasthenic syndrome 9	Disease
+5_prime_UTR_exon_variant	Disease
+hereditary spastic paraplegia 29	Disease
+inflammatory bowel disease 19	Disease
+furans	Disease
+gyrate atrophy	Disease
+carbocyclic compound	Disease
+pharynx cancer	Disease
+axial osteomalacia	Disease
+adult acute monocytic leukemia	Disease
+diabetic cataract	Disease
+obsolete malignant neoplasm of meninges	Disease
+Charcot-Marie-Tooth disease type 4C	Disease
+nonparalytic poliomyelitis	Disease
+premature menopause	Disease
+exudative glomerulonephritis	Disease
+MHC class I deficiency	Disease
+Abnormality of vitamin B metabolism	Disease
+obsolete childhood cancer of liver	Disease
+nasal cavity benign neoplasm	Disease
+age related macular degeneration 7	Disease
+Alzheimer's disease 16	Disease
+Rhinocladiella mackenziei	Disease
+familial adenomatous polyposis 4	Disease
+hepatitis	Disease
+organic heteropolycyclic compound	Disease
+monogenic inheritance	Disease
+obsolete HIV enteropathy	Disease
+anatomical system	Disease
+hemometra	Disease
+exhaustion	Disease
+posterior dislocation of lens	Disease
+obsolete renal pelvis and ureter regional transitional cell cancer	Disease
+qualitative platelet defect	Disease
+necrotizing ulcerative gingivitis	Disease
+fetal nicotine spectrum disorder	Disease
+middle ear adenocarcinoma	Disease
+Cornelia de Lange syndrome 5	Disease
+cutaneous mucoepidermoid carcinoma	Disease
+bronchiectasis 1	Disease
+obsolete labyrinthine disease	Disease
+Brachyura	Disease
+Abnormality of the vertebral column	Disease
+atypical breast papilloma	Disease
+synchronous bilateral breast carcinoma	Disease
+primary ciliary dyskinesia 6	Disease
+Aplasia/hypoplasia affecting bones of the axial skeleton	Disease
+congenital bile acid synthesis defect 6	Disease
+acute salpingo-oophoritis	Disease
+pelvic lump	Disease
+somatic stem cell	Disease
+Bartholin's gland cancer	Disease
+bronchopulmonary bleeding	Disease
+menorrhagia	Disease
+lung large cell carcinoma	Disease
+stillbirth	Disease
+very high fever	Disease
+cervical edema	Disease
+Actinopterygii	Disease
+granular corneal dystrophy	Disease
+Noonan syndrome with multiple lentigines	Disease
+elongated_polypeptide_C_terminal	Disease
+floppy head	Disease
+epileptic seizure	Disease
+hereditary mixed polyposis syndrome	Disease
+adult pineal parenchymal tumor	Disease
+submandibular gland	Disease
+hemoglobin C disease	Disease
+Abnormal muscle physiology	Disease
+hemoglobin D disease	Disease
+cellular schwannoma	Disease
+centronuclear myopathy 2	Disease
+pneumatosis cystoides intestinalis	Disease
+obsolete glaucoma associated with vascular disorder	Disease
+subclavian artery aneurysm	Disease
+obsolete psychogenic depressive psychosis	Disease
+combined saposin deficiency	Disease
+obsolete nevoid basal cell carcinoma syndrome associated medulloblastoma	Disease
+gallbladder carcinoma in situ	Disease
+pancreatic vasoactive intestinal peptide producing tumor	Disease
+obsolete central nervous system AIDS arteritis	Disease
+PHGDH deficiency	Disease
+obsolete malignant lymphatic vessel tumor	Disease
+Shigella dysenteriae	Disease
+Rotaliidae	Disease
+Hyperlordosis	Disease
+sphingolipidosis	Disease
+Firmicutes	Disease
+cartilaginous joint	Disease
+obsolete secondary malignant neoplasm to the chest wall	Disease
+photokeratitis	Disease
+Arboleda-Tham syndrome	Disease
+loss_of_function_variant	Disease
+dengue shock syndrome	Disease
+piperacillin allergy	Disease
+sulfamethoxazole allergy	Disease
+gallbladder signet ring cell adenocarcinoma	Disease
+spermatogenic failure 15	Disease
+Charcot-Marie-Tooth disease type 4K	Disease
+duodenal obstruction	Disease
+generalized hyperhidrosis	Disease
+autosomal recessive limb-girdle muscular dystrophy type 2K	Disease
+hypertension	Disease
+obsolete epithelial carcinoma	Disease
+obsolete Borrelia infectious disease	Disease
+altered_gene_product_level	Disease
+Papillomaviridae	Disease
+intellectual disability	Disease
+heart leiomyosarcoma	Disease
+Anemiaceae	Disease
+squamous blepharitis	Disease
+Laurasiatheria	Disease
+obsessive-compulsive personality disorder	Disease
+accessory XI nerve	Disease
+corpus callosum agenesis-abnormal genitalia syndrome	Disease
+spinal cord ependymoma	Disease
+GM2 gangliosidosis	Disease
+breast large cell neuroendocrine carcinoma	Disease
+Abnormality of the spinal cord	Disease
+carvones	Disease
+Edwards syndrome	Disease
+Trichomonadidae	Disease
+ornithosis	Disease
+von Hippel-Lindau disease	Disease
+inflammatory bowel disease 11	Disease
+holoprosencephaly 11	Disease
+aortic valve	Disease
+obsolete metastatic cancer to the breast	Disease
+spastic monoplegia	Disease
+obsolete cerebral meninges malignant neoplasm	Disease
+adenosquamous breast carcinoma	Disease
+obsolete Hodgkin's lymphoma, mixed cellularity, involving lymph nodes of inguinal region and lower limb	Disease
+villoglandular endometrial endometrioid adenocarcinoma	Disease
+Poales	Disease
+congenital myasthenic syndrome 8	Disease
+sequence_alteration	Disease
+congenital myasthenic syndrome 17	Disease
+hereditary spastic paraplegia 33	Disease
+hereditary spastic paraplegia 14	Disease
+renovascular hypertension	Disease
+internal ear	Disease
+GM1 gangliosidosis type 3	Disease
+Abnormal bone ossification	Disease
+azo compound	Disease
+Sporothrix schenckii	Disease
+Dowling-Degos disease	Disease
+childhood brainstem astrocytoma	Disease
+obsolete Angiostrongylus cantonensis infectious disease	Disease
+obsolete recurrent extraskeletal osteosarcoma	Disease
+Van der Woude syndrome	Disease
+obsolete acne nevus	Disease
+obsolete postsurgical testicular hypofunction	Disease
+autosomal dominant nonsyndromic deafness 73	Disease
+spinocerebellar ataxia 44	Disease
+Cladosporiaceae	Disease
+microcephaly with or without chorioretinopathy, lymphedema, or mental retardation	Disease
+Hennekam syndrome	Disease
+orofacial cleft 2	Disease
+nephrotic syndrome type 2	Disease
+Perlman syndrome	Disease
+tooth ankylosis	Disease
+chromosome 3q29 microduplication syndrome	Disease
+obsolete Myroides odoratus necrotizing fasciitis	Disease
+primary autosomal recessive microcephaly 11	Disease
+X-linked Aarskog syndrome	Disease
+cutaneous appendage	Disease
+Alkhumra hemorrhagic fever virus	Disease
+Mycobacterium leprae	Disease
+malignant cystic nephroma	Disease
+viral hepatitis	Disease
+susceptibility to sarcoidosis 2	Disease
+pancreatic mucinous ductal ectasia	Disease
+multiple symmetric lipomatosis	Disease
+elemental molecular entity	Disease
+retinitis pigmentosa 41	Disease
+susceptibility to autism 16	Disease
+obsolete Picornaviridae infectious disease	Disease
+retinitis pigmentosa 66	Disease
+paralytic squint	Disease
+intracranial arterial disease	Disease
+Nairoviridae	Disease
+holocrine gland	Disease
+064YA	Gene
+102G4T7	Gene
+106I22-SP6	Gene
+109F12R	Gene
+10A1.1.S	Gene
+10RIBBFT	Gene
+10S	Gene
+10T	Gene
+10THRIBBFL	Gene
+116M19SP6	Gene
+116M19T7	Gene
+119L04AR	Gene
+119L04F	Gene
+11-BETA-HSD3	Gene
+11T	Gene
+121D10L	Gene
+128UP	Gene
+128UP_1	Gene
+12S RIBOSOMAL RNA	Gene
+12SRRN	Gene
+12S RRN	Gene
+12SRRNA	Gene
+12S RRNA	Gene
+12S-RRNA	Gene
+12T	Gene
+133J02F	Gene
+133J02R	Gene
+137H23T7	Gene
+138D12-SP6	Gene
+13.MMHAP42FLE1	Gene
+140UP_1	Gene
+1433B	Gene
+14-3-3EPSILON	Gene
+14-3-3ZETA	Gene
+143B1	Gene
+143B2	Gene
+143G1	Gene
+143G2	Gene
+14C5SP6	Gene
+14C5T7	Gene
+156L3T7	Gene
+15S	Gene
+15T	Gene
+162C8A2	Gene
+167C5-T7	Gene
+167L17-T7	Gene
+1688-11EF	Gene
+16DWT	Gene
+16.MMHAP64FLF1.SEQ	Gene
+16RRN	Gene
+16S	Gene
+16S RIBOSOMAL RNA	Gene
+16SRRN	Gene
+16S RRN	Gene
+16SRRNA	Gene
+DPPA3L1	Gene
+DPPA3P1	Gene
+DPPA3P2	Gene
+DPPA3P3	Gene
+DPPA3-PS	Gene
+DPPA3-PS1	Gene
+DPPA3-PS2	Gene
+DPPA4	Gene
+DPPA4P1	Gene
+DPPA5	Gene
+DPPA5A	Gene
+DPPA5B	Gene
+DPPA5C	Gene
+DPPA5P1	Gene
+DPPA5P2	Gene
+DPPA5P3	Gene
+DPPA5P4	Gene
+DPPA5-PS1	Gene
+DPPA5-PS2	Gene
+DPPA5-PS3	Gene
+DPPA5-PS4	Gene
+LOAG_08268	Gene
+LOAG_08269	Gene
+LOAG_08271	Gene
+neurochondrin-1, putative	Gene
+fumarylacetoacetate hydrolase, putative	Gene
+DNA repair protein rad51, putative	Gene
+alpha/beta hydrolase domain containing protein, putative	Gene
+sodium/solute symporter, putative	Gene
+WD-repeat protein, putative	Gene
+MAP3K12-binding inhibitory protein, putative	Gene
+Molybdenum cofactor synthesis protein 2 large subunit, putative	Gene
+hypothetical protein	Gene
+synaptosomal-associated protein, putative	Gene
+cytochrome P-450, putative	Gene
+Cadherin-23 precursor, putative	Gene
+negative regulation of DNA-templated transcription, termination	Gene
+regulation of radial pattern formation	Gene
+dimethylargininase activity	Gene
+toll-like receptor 10 signaling pathway	Gene
+histone H2A-S139 phosphorylation	Gene
+(25S)-Delta(7)-dafachronate binding	Gene
+P granule disassembly	Gene
+nuclear origin of replication recognition complex	Gene
+determination of liver left/right asymmetry	Gene
+obsolete negative chemotaxis in host	Gene
+lateral motor column neuron differentiation	Gene
+UDP-N-acetylmuramoyl-L-alanyl-D-glutamyl-meso-2,6-diaminopimelyl-D-alanyl-D-alanine:undecaprenyl-phosphate transferase activity	Gene
+response to host iron concentration	Gene
+metanephric glomerular parietal epithelial cell development	Gene
+nucleoside transmembrane transporter activity, against a concentration gradient	Gene
+intrinsic component of periplasmic side of plasma membrane	Gene
+positive regulation of galactomannan catabolic process	Gene
+pyloric canal smooth muscle contraction	Gene
+butirosin biosynthetic process	Gene
+alpha4-beta1 integrin-JAM2 complex	Gene
+positive regulation of myeloid dendritic cell cytokine production	Gene
+amino-acid betaine transmembrane transporter activity	Gene
+regulation of neurotransmitter loading into synaptic vesicle	Gene
+folic acid catabolic process	Gene
+positive regulation of mast cell apoptotic process	Gene
+tolerance induction to tumor cell	Gene
+regulation of dorsal/ventral axon guidance	Gene
+lung epithelium development	Gene
+anesthesia-resistant memory	Gene
+regulation of protein localization	Gene
+integral component of membrane	Gene
+cathasterone hydroxylase activity	Gene
+perichondral ossification	Gene
+obsolete subsarcolemmal mitochondrion	Gene
+SCF-Saf1/Pof9 ubiquitin ligase complex	Gene
+protein kinase B binding	Gene
+regulation of cardiac muscle hypertrophy	Gene
+obsolete development of symbiont in host cell	Gene
+ecdysone metabolic process	Gene
+chemosynthesis	Gene
+smooth muscle dense body	Gene
+dicarboxylate-CoA ligase activity	Gene
+maintenance of protease location in T cell secretory granule	Gene
+negative regulation of hexasaccharide transport	Gene
+obsolete signal initiation by peptide hormone	Gene
+formate dehydrogenase (coenzyme F420) activity	Gene
+nitrilotriacetate monooxygenase activity	Gene
+negative regulation of lung blood pressure	Gene
+p-coumaryl alcohol transport	Gene
+obsolete peptidoglycan synthetase activity	Gene
+positive regulation of dendritic spine maintenance	Gene
+5-aminosalicylate dioxygenase activity	Gene
+negative regulation of systemic arterial blood pressure	Gene
+regulation of mitotic recombination	Gene
+ciliary neurotrophic factor receptor activity	Gene
+cellular response to brain-derived neurotrophic factor stimulus	Gene
+peroxisome matrix targeting signal-1 binding	Gene
+plant-type cell wall loosening involved in abscission	Gene
+pilomotor reflex	Gene
+kojic acid biosynthetic process	Gene
+hexose mediated signaling	Gene
+resolvin biosynthetic process	Gene
+protein-heme P460 linkage via heme P460-bis-L-cysteine-L-lysine	Gene
+regulation of white fat cell proliferation	Gene
+2-hydroxy-1,4-benzoquinone reductase activity	Gene
+mannitol transmembrane transporter activity	Gene
+negative regulation of G1 to G0 transition	Gene
+delayed rectifier potassium channel activity	Gene
+AV node cell to bundle of His cell communication by electrical coupling	Gene
+regulation of BMP signaling pathway	Gene
+myo-inositol hexakisphosphate biosynthetic process, lipid-independent	Gene
+protein import into peroxisome matrix, receptor recycling	Gene
+phosphatidylinositol dephosphorylation	Gene
+modulation by symbiont of host adenylate cyclase-mediated signal transduction	Gene
+chemokine receptor transport out of membrane raft	Gene
+histone methyltransferase activity (H4-K20 specific)	Gene
+L-cysteine catabolic process via cystine, using cystine reductase	Gene
+promoter clearance from bacterial-type RNA polymerase promoter	Gene
+obsolete positive regulation of transcription involved in S-phase of mitotic cell cycle	Gene
+interleukin-11 receptor activity	Gene
+regulation of nodal signaling pathway involved in determination of left/right asymmetry	Gene
+auxin polar transport	Gene
+glyoxal biosynthetic process	Gene
+arginyltransferase activity	Gene
+tRNA-dihydrouridine16 synthase activity	Gene
+regulation of shelterin complex assembly	Gene
+negative regulation of protein processing	Gene
+thyroid hormone generation	Gene
+obsolete cellular process involved in reproduction	Gene
+negative regulation of smooth muscle cell-matrix adhesion	Gene
+vasodilation involved in acute inflammatory response	Gene
+retina vasculature morphogenesis in camera-type eye	Gene
+neural rod formation	Gene
+cellular response to mercaptoethanol	Gene
+UTP-monosaccharide-1-phosphate uridylyltransferase activity	Gene
+quinone metabolic process	Gene
+NPHP complex	Gene
+peptidoglycan transport	Gene
+septum primum development	Gene
+viral capsid	Gene
+6'-deoxychalcone synthase activity	Gene
+dendriole	Gene
+nucleolar preribosome	Gene
+4-hydroxy-3-methylbut-2-en-1-yl diphosphate synthase activity	Gene
+diphosphoinositol-polyphosphate diphosphatase activity	Gene
+maintenance of protein location in extracellular region	Gene
+mannosyl-diinositol phosphorylceramide phospholipase activity	Gene
+obsolete cellular process regulating host cell cycle in response to virus	Gene
+penetration of zona pellucida	Gene
+positive regulation of paraxial mesodermal cell fate specification	Gene
+phosphotransferase activity, nitrogenous group as acceptor	Gene
+melanocyte migration	Gene
+negative regulation of epidermal growth factor receptor signaling pathway involved in heart process	Gene
+N-terminal peptidyl-isoleucine acetylation	Gene
+integral component of presynaptic active zone membrane	Gene
+regulation of DNA damage response, signal transduction by p53 class mediator	Gene
+regulation of tensidol A biosynthetic process	Gene
+2-octoprenyl-3-methyl-6-methoxy-1,4-benzoquinone hydroxylase activity	Gene
+decaprenyldihydroxybenzoate methyltransferase activity	Gene
+anterior visceral endoderm cell migration	Gene
+vestibulocochlear nerve formation	Gene
+positive regulation of protein autophosphorylation	Gene
+negative regulation of p38MAPK cascade	Gene
+Piccolo NuA4 histone acetyltransferase complex	Gene
+phosphatidylinositol-5-phosphate 5-phosphatase activity	Gene
+negative regulation of integrin-mediated signaling pathway	Gene
+phosphoglycerate mutase activity	Gene
+terpenoid catabolic process	Gene
+UDP-L-rhamnose:quercetin 3-O-rhamnosyltransferase activity	Gene
+methylation-dependent protein binding	Gene
+thymidine biosynthetic process	Gene
+O3-(phosphoglycosyl-D-mannose-1-phosphoryl)-L-serine biosynthetic process	Gene
+positive regulation of establishment or maintenance of bipolar cell polarity regulating cell shape	Gene
+positive regulation of oocyte maturation	Gene
+reverse cholesterol transport	Gene
+obsolete positive regulation of adrenergic receptor signaling pathway involved in heart process	Gene
+rhamnolipid biosynthesis	Gene
+activation of membrane attack complex	Gene
+gephyrin clustering involved in postsynaptic density assembly	Gene
+obsolete establishment of mitochondrion localization involved in mitochondrial fission	Gene
+streptomycin-6-phosphatase activity	Gene
+transcription factor TFTC complex	Gene
+postsynaptic endocytosis	Gene
+ent-kaurene metabolic process	Gene
+carcinine import across plasma membrane	Gene
+conversion of lysyl-tRNA to pyrrolysyl-tRNA	Gene
+Cypridina-luciferin 2-monooxygenase activity	Gene
+(S)-corytuberine synthase activity	Gene
+GO_0030347	Gene
+host extracellular space	Gene
+nitric-oxide synthase complex	Gene
+von Hippel-Lindau disease tumor suppressor isoform 1 (human)	Protein
+Y39B6A.33 (worm)	Protein
+zinc transporter 6 isoform 1 (mouse)	Protein
+importin-13 (mouse)	Protein
+chitinase-3-like protein 2, signal peptide removed form	Protein
+cofilin-1, initiator methionine removed form	Protein
+nuclear GTP-binding protein NUG1 (yeast)	Protein
+deoxycytidine kinase (mouse)	Protein
+Nck-associated protein 5-like (mouse)	Protein
+HEXB (human)	Protein
+pulmonary surfactant-associated protein A1, signal peptide removed form (human)	Protein
+SHC-transforming protein 3 phosphotyrosine form (human)	Protein
+accessory gland protein Acp53Ea (fruit fly)	Protein
+IMA2 (yeast)	Protein
+sodium-dependent noradrenaline transporter isoform 1	Protein
+mediator of RNA polymerase II transcription subunit 28 (fruit fly)	Protein
+myosin regulatory light polypeptide 9 isoform 1	Protein
+swc2 (Schizosaccharomyces pombe)	Protein
+SAUR50 (Arabidopsis thaliana)	Protein
+phosducin (rat)	Protein
+insulin-like growth factor 2 mRNA-binding protein 3 isoform 1 (human)	Protein
+agxt (Dictyostelium discoideum)	Protein
+REXO2 (human)	Protein
+cytosolic Fe-S cluster assembly factor NUBP1 homolog (Dictyostelium discoideum)	Protein
+PCH2 (yeast)	Protein
+kallikrein-15 isoform h5 (human)	Protein
+cysteine and glycine-rich protein 1 isoform 1 (rat)	Protein
+C7orf66 (human)	Protein
+Cxcr3 (mouse)	Protein
+EIF4ENIF1 (human)	Protein
+tyrosine-protein kinase Fes/Fps isoform h2 (human)	Protein
+NOD2 (human)	Protein
+dnaA (Aeromonas hydrophila subsp. hydrophila ATCC 7966)	Protein
+voltage-gated potassium channel KCNC1 isoform Long	Protein
+serotransferrin N-glycosylated 2 (rat)	Protein
+serine protease inhibitor Kazal-type 1 (rat)	Protein
+probable G-protein coupled receptor 139 (mouse)	Protein
+ACT domain-containing protein ACR1 isoform 1 (Arabidopsis thaliana)	Protein
+putative acid phosphatase 5 (worm)	Protein
+CMP-N-acetylneuraminate-beta-galactosamide-alpha-2,3-sialyltransferase 4 isoform h6 (human)	Protein
+inositol 1,4,5-trisphosphate receptor type 2 isoform m2 (mouse)	Protein
+IgA1 B cell receptor complex (human)	Protein
+YHR045W (yeast)	Protein
+U1 small nuclear ribonucleoprotein A (Arabidopsis thaliana)	Protein
+matrix protein 1 (Influenza A virus (strain A/Memphis/110/1976 H3N2))	Protein
+Dnph1 (mouse)	Protein
+probable protein phosphatase 2C 9 isoform 1 (Arabidopsis thaliana)	Protein
+uncharacterized protein, DDB_G0293622 translation product (Dictyostelium discoideum)	Protein
+cleavage and polyadenylation specificity factor subunit 5	Protein
+rhamnogalacturonan I rhamnosyltransferase 2 (Arabidopsis thaliana)	Protein
+3-isopropylmalate dehydratase small subunit 2 (Arabidopsis thaliana)	Protein
+leukosialin, signal peptide removed form (human)	Protein
+formin-1 isoform h3 (human)	Protein
+uncharacterized protein, CNR2 translation product (chicken)	Protein
+LINGO2 (human)	Protein
+mitochondrial inner membrane protease ATP23 (Candida albicans SC5314)	Protein
+60S ribosomal protein L26 isoform 1 (human)	Protein
+5'-AMP-activated protein kinase catalytic subunit alpha-1 phosphorylated 1 (human)	Protein
+LIM domain kinase 1 (human)	Protein
+putative uncharacterized protein C959.11 (Schizosaccharomyces pombe 972h-)	Protein
+uncharacterized protein C16G5.06 (Schizosaccharomyces pombe 972h-)	Protein
+ceh-10 (worm)	Protein
+sucrase-isomaltase, intestinal proteolytic cleavage product	Protein
+trm13 (Schizosaccharomyces pombe)	Protein
+mannose-6-phosphate isomerase (mouse)	Protein
+cullin-associated NEDD8-dissociated protein 1 (worm)	Protein
+stromal cell-derived factor 2-like protein 1 isoform 1 (human)	Protein
+hlyE (Escherichia coli K-12)	Protein
+Ovgp1 (mouse)	Protein
+homeodomain-interacting protein kinase 4 (human)	Protein
+GlyP (fruit fly)	Protein
+membrane-spanning 4-domains subfamily A member 6D	Protein
+Dmgdh (mouse)	Protein
+Pnoc (rat)	Protein
+cuticlin-6 (worm)	Protein
+NADPH-dependent thioredoxin reductase 3 (Arabidopsis thaliana)	Protein
+Sik3 (mouse)	Protein
+protein ROD1 (yeast)	Protein
+guanine nucleotide-binding protein G(z) subunit alpha (mouse)	Protein
+kelch-like protein 36 (rat)	Protein
+signal recognition particle 14 kDa protein, initiator methionine removed form (human)	Protein
+SWI/SNF-related matrix-associated actin-dependent regulator of chromatin subfamily A-like protein 1 (zebrafish)	Protein
+signal transducing adapter molecule 2 ubiquitinated form (human)	Protein
+ecotropic viral integration site 5 protein homolog isoform h1 (human)	Protein
+enoyl-CoA hydratase, mitochondrial isoform 1	Protein
+guanylate cyclase soluble subunit alpha-1 (human)	Protein
+CUZ1 (yeast)	Protein
+CLC1 (yeast)	Protein
+MLO6 (Arabidopsis thaliana)	Protein
+lysine-specific demethylase 5A isoform 1	Protein
+gastrin-releasing peptide (rat)	Protein
+pre-mRNA-splicing factor 38B (zebrafish)	Protein
+autophagy-related protein 9B isoform h1 (human)	Protein
+obsolete mediator of RNA polymerase II transcription subunit 15 isoform 1 (mouse)	Protein
+25-hydroxyvitamin D-1 alpha hydroxylase, mitochondrial	Protein
+tyrosine-protein kinase Fyn (mouse)	Protein
+polyglutamine-binding protein 1 isoform h5 (human)	Protein
+Secisbp2l (mouse)	Protein
+beta-centractin isoform 1 (mouse)	Protein
+glial fibrillary acidic protein isoform h1 (human)	Protein
+Dido1 (mouse)	Protein
+NOC3 (yeast)	Protein
+pikachurin isoform h3 (human)	Protein
+Ccdc148 (mouse)	Protein
+Hmx3 (mouse)	Protein
+glucose-6-phosphatase isoform h2 (human)	Protein
+TLR5 (human)	Protein
+protein HIR2 (yeast)	Protein
+keratin-associated protein 21-3	Protein
+protein AKNAD1 (human)	Protein
+RALFL33 (Arabidopsis thaliana)	Protein
+transcriptional enhancer factor TEF-5	Protein
+T-complex protein 11-like protein 2	Protein
+protein Tnfrsf18 (rat)	Protein
+von Willebrand factor A domain-containing protein DDB_G0292028 (Dictyostelium discoideum)	Protein
+transcription factor nsy-7 isoform b (worm)	Protein
+protein FAM50 homolog isoform a (worm)	Protein
+MAP7 domain-containing protein 1 isoform h3 (human)	Protein
+CAMSAP1 (human)	Protein
+biorientation of chromosomes in cell division protein 1-like 1 isoform m2 (mouse)	Protein
+Galp (mouse)	Protein
+Eepd1 (rat)	Protein
+uncharacterized protein C30G12.1 (worm)	Protein
+neuropilin-1 O-glycosylated 3 (human)	Protein
+interleukin-33 isoform h2 (human)	Protein
+prolyl 4-hydroxylase subunit alpha-2 O-glycosylated 2 (human)	Protein
+ZNF185 (human)	Protein
+pterin-4-alpha-carbinolamine dehydratase (chicken)	Protein
+small integral membrane protein 14 (rat)	Protein
+NAC043 (Arabidopsis thaliana)	Protein
+Mrpl47 (mouse)	Protein
+putative aspartate aminotransferase, cytoplasmic 2	Protein
+kinesin-like protein unc-104 (worm)	Protein
+fam199x (zebrafish)	Protein
+insulin receptor O-glycosylated 6 (human)	Protein
+regulating synaptic membrane exocytosis protein 3 isoform h1 (human)	Protein
+Ppt2 (rat)	Protein
+low-density lipoprotein receptor-related protein 4 O-glycosylated 2 (human)	Protein
+Ovos (mouse)	Protein
+septin homolog spn4 (Schizosaccharomyces pombe 972h-)	Protein
+OOEP (human)	Protein
+1-aminocyclopropane-1-carboxylate synthase-like protein 1 isoform h2 (human)	Protein
+non-homologous end-joining factor 1 (rat)	Protein
+Ubald1 (rat)	Protein
+GLG1 (chicken)	Protein
+tyrosine-protein kinase receptor Tie-1	Protein
+Lgals2 (mouse)	Protein
+obsolete cytochrome P450 2A5	Protein
+SLK1 (Arabidopsis thaliana)	Protein
+major prion protein N-glycosylated 17 (mouse)	Protein
+SPAC11D3.10 (Schizosaccharomyces pombe)	Protein
+ESPL1 (human)	Protein
+3'-5' ssDNA/RNA exonuclease TatD	Protein
+hepatoma-derived growth factor-related protein 2 isoform 2	Protein
+double-strand-break repair protein rad21-like protein 1 isoform h2 (human)	Protein
+serine/threonine protein phosphatase 2A 57 kDa regulatory subunit B' beta isoform (Arabidopsis thaliana)	Protein
+tripartite motif-containing protein 2 isoform 1 (human)	Protein
+p-tbk1:K63-poly-Ub-TRAF3:ticam1:ticam2:activated TLR4 complex complex (human)	Protein
+Snrpa (mouse)	Protein
+Slc12a6 (mouse)	Protein
+SLC25A28 (human)	Protein
+Mas-related G-protein coupled receptor member B8 (mouse)	Protein
+CREB-regulated transcription coactivator 3 (human)	Protein
+60S ribosomal protein L35 (worm)	Protein
+Rpl10 (rat)	Protein
+prostate-specific antigen N-glycosylated 43 (human)	Protein
+low molecular weight phosphotyrosine protein phosphatase isoform 1 (human)	Protein
+asparagine synthetase [glutamine-hydrolyzing] 3 (Arabidopsis thaliana)	Protein
+glrx3 (Dictyostelium discoideum)	Protein
+thymocyte nuclear protein 1 isoform 1 (rat)	Protein
+epidermal growth factor receptor, signal peptide removed form (human)	Protein
+protein held out wings isoform Zygotic (fruit fly)	Protein
+histone deacetylase complex subunit SAP30 N-glycosylated 2 (human)	Protein
+vasopressin-neurophysin 2-copeptin (rat)	Protein
+UDP-N-acetylhexosamine pyrophosphorylase-like protein 1 (zebrafish)	Protein
+solute carrier family 2, facilitated glucose transporter member 9 (mouse)	Protein
+XK-related protein 6	Protein
+Rnf148 (mouse)	Protein
+prolow-density lipoprotein receptor-related protein 1 N-glycosylated 2 (rat)	Protein
+SNRPN upstream reading frame protein isoform 1 (mouse)	Protein
+Dbp80 (fruit fly)	Protein
+alpha-mannosidase D (Dictyostelium discoideum)	Protein
+ARR13 (Arabidopsis thaliana)	Protein
+28S ribosomal protein S34, mitochondrial, initiator methionine removed form (human)	Protein
+cadherin-8	Protein
+lev-9 (worm)	Protein
+annexin A5, initiator methionine removed form (human)	Protein
+NAD(P)H-quinone oxidoreductase subunit S, chloroplastic (Arabidopsis thaliana)	Protein
+rpoB (Brucella suis 1330)	Protein
+isochorismatase family protein 2B (Dictyostelium discoideum)	Protein
+tenascin-X O-glycosylated 8 (human)	Protein
+tenascin-X O-glycosylated 25 (human)	Protein
+K12H4.7 (worm)	Protein
+NGFI-A-binding protein 2 isoform 2 (human)	Protein
+ATL21B (Arabidopsis thaliana)	Protein
+SWI/SNF-related matrix-associated actin-dependent regulator of chromatin subfamily E member 1 (rat)	Protein
+HLA class II histocompatibility antigen, DRB1 beta chain (human)	Protein
+2,3-bisphosphoglycerate-independent phosphoglycerate mutase (Escherichia coli K-12)	Protein
+uncharacterized protein, GSG1 translation product (chicken)	Protein
+MAU2 chromatid cohesion factor homolog isoform h1 (human)	Protein
+obscurin (mouse)	Protein
+NADH oxidoreductase HCR (Escherichia coli K-12)	Protein
+MAPK regulated corepressor interacting protein 2 isoform 1 (human)	Protein
+endoplasmic reticulum chaperone BiP homolog (worm)	Protein
+40S ribosomal protein S27, initiator methionine removed form	Protein
+SUN domain-containing ossification factor isoform m2 (mouse)	Protein
+olfactomedin-like protein 1 isoform 1	Protein
+nipped-B-like protein	Protein
+putative tyrosine-protein phosphatase TPTE	Protein
+putative histone-lysine N-methyltransferase PRDM6	Protein
+folP (Escherichia coli K-12)	Protein
+Na(+)/H(+) exchange regulatory cofactor-like protein nrfl-1 isoform i (worm)	Protein
+DNA-binding dual transcriptional regulator OmpR (Escherichia coli K-12)	Protein
+At5g53440 (Arabidopsis thaliana)	Protein
+nuclear transcription factor Y subunit C-10 (Arabidopsis thaliana)	Protein
+E3 ubiquitin-protein ligase SIAH1 isoform 1 (rat)	Protein
+protein ERP3 (yeast)	Protein
+Mrpl50 (mouse)	Protein
+tumor protein p53-inducible nuclear protein 1 isoform h1 (human)	Protein
+EGF domain-specific O-linked N-acetylglucosamine transferase isoform 1 (rat)	Protein
+lysoplasmalogenase-like protein TMEM86A (mouse)	Protein
+Rab11 family-interacting protein 2 isoform 1	Protein
+ornithine decarboxylase antizyme 1 (chicken)	Protein
+KRTAP29-1 (human)	Protein
+FH2 domain-containing protein 1	Protein
+interactor protein for cytohesin exchange factors 1 isoform 1	Protein
+FERMT1 (human)	Protein
+N-acetylgalactosamine kinase (rat)	Protein
+probable ribosylation factor GTPase-activating protein cnt6 (Schizosaccharomyces pombe 972h-)	Protein
+SEC13B (Arabidopsis thaliana)	Protein
+coagulation factor X N-glycosylated 7 (human)	Protein
+DENN domain-containing protein 1C	Protein

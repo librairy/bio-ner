@@ -1,0 +1,7 @@
+transformers>=4.5.0
+spacy>=3
+pysolr~=3.9.0
+flask~=1.1.2
+flask-cors
+Flask-Markdown
+torch

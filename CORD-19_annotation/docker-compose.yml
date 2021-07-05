@@ -1,0 +1,11 @@
+version: '3'
+services:
+  solr:
+    image: "solr"
+    entrypoint:
+    - bash
+    - "-c"
+    - "precreate-core covid_paragraphs; exec solr -f"
+    ports:
+     - "8984:8983"
+

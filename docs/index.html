@@ -1,0 +1,371 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Bio-NLP</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!--===============================================================================================-->
+    <!--<link rel="icon" type="image/png" href="images/icons/favicon.ico"/>-->
+    <!--===============================================================================================-->
+    <link rel="stylesheet" type="text/css"
+          href="vendor/bootstrap/css/bootstrap.min.css">
+    <!--===============================================================================================-->
+    <link rel="icon" href="images/icons/favicon.ico">
+    <!--===============================================================================================-->
+    <link rel="stylesheet" type="text/css"
+          href="fonts/font-awesome-4.7.0/css/font-awesome.min.css">
+    <!--===============================================================================================-->
+    <link rel="stylesheet" type="text/css" href="vendor/animate/animate.css">
+    <!--===============================================================================================-->
+    <link rel="stylesheet" type="text/css"
+          href="vendor/css-hamburgers/hamburgers.min.css">
+    <!--===============================================================================================-->
+    <link rel="stylesheet" type="text/css" href="vendor/select2/select2.min.css">
+    <!--===============================================================================================-->
+    <link rel="stylesheet" type="text/css" href="css/util.css">
+    <link rel="stylesheet" type="text/css" href="css/main.css">
+    <!--===============================================================================================-->
+    <style>
+    .results {
+      display: none;
+    }
+
+
+    </style>
+
+</head>
+<body>
+
+<div class="contact1">
+    <header class="header" style="margin-bottom: 30px">
+        <h1 style="font-weight: bold; font-size:500%; text-align:center;">Bio-NLP</h1>
+        <p style="color:black; font-size:100%; text-align:center;">BioNER tool which aims to apply
+            last state of the art models for the recognition of Biomedical Entities: Diseases, Chemicals and Genetical
+            ents.</p>
+    </header>
+    <div class="container-contact1" style="flex-direction:column; align-items: center">
+        <div class="contact1-pic js-tilt" data-tilt>
+            <img src="images/ner_icon.png" alt="IMG">
+        </div>
+
+        <span class="contact1-form-title">
+					Find the biomedical entities hidden in text.
+				</span>
+
+
+        <div class="wrap-input1 validate-input" style="height:500px">
+            <textarea id="myTextarea" class="input1" style="height:500px"></textarea>
+            <span class="shadow-input1"></span>
+        </div>
+
+        <div>
+            <button onclick="doRequest()" class="contact1-form-btn">
+						<span>
+							Analyze
+						</span>
+            </button>
+        </div>
+
+        <!-- Image loader -->
+        <div id='loader' style='display: none; margin-top:30px;'>
+            <img src="images/ajax-loader.gif" width='100%' height=auto>
+        </div>
+        <!-- Image loader -->
+
+        <div id="error" ; style="display: none; margin-top:40px">
+        </div>
+
+        <div class="results">
+            <h1 style="margin-top:40px">
+                <b>Results</b>
+            </h1>
+        </div>
+
+        <div class="results" ; id="ner_visual" ; style="overflow-x: auto; solid #e6e9ef; border-radius: 0.25rem; margin-top:20px;
+				font-size:75%; background:rgba(255, 255, 255, 0.39)">
+
+        </div>
+
+        <div class="results">
+            <h1 style="margin-top:60px; margin-bottom:20px">
+                <b>Normalized found terms </b>
+            </h1>
+        </div>
+
+        <div class="results" ; style="margin-top:30px; width:100%">
+
+            <div>
+                <h2 style="text-align:center; margin-bottom:40px">
+                    <b>Diseases</b>
+                </h2>
+                <table id="diseases_table" class="table">
+
+                </table>
+            </div>
+
+            <div>
+                <h2 style="text-align:center; margin-bottom:30px; margin-top:40px">
+                    <b>Drugs/Chemicals</b>
+                </h2>
+                <table id="drugs_table" class="table">
+
+                </table>
+            </div>
+
+            <div>
+                <h2 style="text-align:center; margin-bottom:30px; margin-top:40px">
+                    <b>Genetical</b>
+                </h2>
+                <table id="genetic_table" class="table">
+
+                </table>
+            </div>
+
+            <div>
+                <h2 style="text-align:center; margin-bottom:30px; margin-top:30px">
+                    <b>COVID-19</b>
+                </h2>
+                <table id="covid_table" class="table">
+
+                </table>
+            </div>
+
+        </div>
+
+        <div class="results">
+            <h2 style="text-align:center; margin-bottom:30px; margin-top:30px">
+                <b>Results JSON</b>
+            </h2>
+            <textarea id="result-json" cols="85" rows="35" readonly style="background:#e6e6e6; font-family: 'Montserrat-Regular'; color: #666666;">
+
+            </textarea>
+        </div>
+    </div>
+
+</div>
+
+<!--<footer class="footer">-->
+<!--    <div>-->
+<!--        <p> Work implemented by: </p>-->
+
+<!--    </div>-->
+
+<!--</footer>-->
+
+
+<!--===============================================================================================-->
+<script src="vendor/jquery/jquery-3.2.1.min.js"></script>
+<!--===============================================================================================-->
+<!--<script src="vendor/bootstrap/js/popper.js"></script>-->
+<!--<script src="vendor/bootstrap/js/bootstrap.min.js"></script>-->
+<!--===============================================================================================-->
+<script src="vendor/select2/select2.min.js"></script>
+<!--===============================================================================================-->
+<script src="vendor/tilt/tilt.jquery.min.js"></script>
+
+<script>
+		$('.js-tilt').tilt({
+			scale: 1.1
+		})
+		function doRequest() {
+			var message = {
+			            text: document.getElementById("myTextarea").value
+			        }
+			var message_data = JSON.stringify(message)
+      //console.log(message_data)
+			jQuery.ajax ({
+			    url: "/bio-ner/entities",
+			    type: "POST",
+				data: message_data,
+			    contentType: "application/json; charset=utf-8",
+			    dataType: "json",
+			    beforeSend: function(){
+                // Show image container
+                $("#loader").show();
+                $(".results").hide();
+                $("#error").hide();
+                },
+			    success: function(response){
+			        $(".results").css("display","block");
+			        var trHTML_dis = '';
+					$('#ner_visual').html(response.html);
+					$('#diseases_table tr').remove();
+					$('#diseases_table').append('<tr><th>Term</th><th>Found Term</th><th>Mesh ID</th><th>CUI</th><th>ICD10</th><th>Other Ids</th><th>Semantic type</th></tr>');
+                    $.each(response.entities.diseases, function(i, item) {
+                        var text_term = item.text_term;
+                        var found_term = "-";
+                        if (item.found_term != null){
+                            found_term = item.found_term;
+                        }
+                        var cui  = "-";
+                        if (item.cui != null){
+                            if (item.cui.length == 1){
+                                cui = '<a href=https://uts.nlm.nih.gov/uts/umls/concept/' + item.cui + '>' + item.cui + '</a>';
+                            }
+                            cuis = item.cui.slice(0,2);
+                            cui = cuis.join(', ');
+                        }
+                        var mesh_id = "-";
+                        if (item.mesh_id != null){
+                            mesh_id = '<a href=https://meshb.nlm.nih.gov/record/ui?ui=' + item.mesh_id + '>' + item.mesh_id + '</a>';
+                        }
+                        var icd10 = "-";
+                        if (item.ICD10_id != null){
+                            icd10 = '<a href=https://icd.who.int/browse10/2019/en#/' + item.ICD10_id + '>' + item.ICD10_id + '</a>';
+                        }
+                        var type = "-";
+                        if (item.semantic_type != null){
+                            type = item.semantic_type.replaceAll('|',' | ');
+                        }
+                        var cross_references = "-";
+                        if (item.cross_references != null){
+                            others = item.cross_references.slice(0,3);
+                            cross_references = others.join(', ');
+                            cross_references = cross_references.replaceAll(':',': ');
+                            cross_references = cross_references.replaceAll(/(SNOMEDCT)\w+/g,'SNOMEDCT');
+                            }
+                        trHTML_dis += '<tr><td>' + text_term + '</td><td>' + found_term + '</td><td>' + mesh_id + '</td><td>' + cui + '</td><td>' + icd10 +'</td><td>' + cross_references +'</td><td>' + type + '</td></tr>';
+                    });
+                    $('#diseases_table').append(trHTML_dis);
+                    var trHTML_chem = '';
+					$('#drugs_table tr').remove();
+					$('#drugs_table').append('<tr><th>Term</th><th>Found Term</th><th>Mesh ID</th><th>CHEBI ID</th><th>ATC</th><th>ATC level</th><th>Other IDs</th></tr>');
+                    $.each(response.entities.chemicals, function(i, item) {
+                        var text_term = item.text_term;
+                        var found_term = "-";
+                        if (item.found_term != null){
+                            found_term = item.found_term;
+                        }
+                        var cid  = "-";
+                        if (item.cid != null){
+                            cid = item.cid;
+                        }
+                        var mesh_id = "-";
+                        if (item.mesh_id != null){
+                            mesh_id = '<a href=https://meshb.nlm.nih.gov/record/ui?ui=' + item.mesh_id + '>' + item.mesh_id + '</a>';
+                        }
+                        var chebi_id = "-";
+                        if (item.chebi_id != null){
+                            chebi_id = '<a href=https://www.ebi.ac.uk/chebi/searchId.do?chebiId=' + item.chebi_id + '>' + item.chebi_id + '</a>';
+
+                        }
+                        var ATC = "-";
+                        if (item.ATC != null){
+                            ATC = '<a href=https://www.whocc.no/atc_ddd_index/?code=' + item.ATC + '>' + item.ATC + '</a>';
+                        }
+                        var ATC_level = "-";
+                        if (item.ATC_level != null){
+                            ATC_level =  item.ATC_level;
+                        }
+                        var cross_references = "-";
+                        if (item.cross_references != null){
+                            others = item.cross_references.slice(0,3);
+                            if (item.cid != null){
+                                others.push('cid:' + item.cid);
+                                console.log(others);
+                            }
+                            cross_references = others.join(', ');
+                            }
+                        if (item.cross_references == null){
+                            if (item.cid != null){
+                                cross_references = 'cid:' + item.cid;
+                            }
+                        }
+
+                        trHTML_chem += '<tr><td>' + text_term + '</td><td>' + found_term + '</td><td>' + mesh_id + '</td><td>' + chebi_id + '</td><td>' + ATC +'</td><td>' + ATC_level +'</td><td>' + cross_references +'</td></tr>';
+                    });
+                    $('#drugs_table').append(trHTML_chem);
+                    var trHTML_gen = '';
+                    $('#genetic_table tr').remove();
+					$('#genetic_table').append('<tr><th>Term</th><th>Found Term</th><th>NCBIgene ID</th><th>UniProt ID</th><th>NCBItaxon</th><th>Other IDs</th></tr>');
+                    $.each(response.entities.genetics, function(i, item) {
+                        var text_term = item.text_term;
+                        var found_term = "-";
+                        if (item.found_term != null){
+                            found_term = item.found_term;
+                        }
+                        var ncbi_gene_id  = "-";
+                        if (item.ncbi_gene_id != null){
+                            ncbi_gene_id = '<a href=https://www.ncbi.nlm.nih.gov/gene/' + item.ncbi_gene_id + '>' + item.ncbi_gene_id + '</a>';
+                        }
+                        var ncbi_taxon_id = "-";
+                        if (item.ncbi_taxon_id != null){
+                            ncbi_taxon_id = '<a href=https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=' + item.ncbi_taxon_id + '>' + item.ncbi_taxon_id + '</a>';
+                        }
+                        var uniprot = "-";
+                        if (item.uniprot_id != null){
+                            uniprots = item.uniprot_id.slice(0,2);
+                            uniprot = uniprots.join(', ');
+                        }
+                        //var type = "-";
+                        // if (item.type != null){
+                        //    type = item.type;
+                        // }
+                        var cross_references = "-";
+                        if (item.cross_reference != null){
+                            others = item.cross_reference;
+                            cross_references = others.join(', ')
+                            }
+
+                        trHTML_gen += '<tr><td>' + text_term + '</td><td>' + found_term + '</td><td>' + ncbi_gene_id + '</td><td>' + uniprot + '</td><td>' + ncbi_taxon_id +'</td><td>' + cross_references + '</td></tr>';
+                    });
+                    $('#genetic_table').append(trHTML_gen);
+                    var trHTML_covid = '';
+                    $('#covid_table tr').remove();
+					$('#covid_table').append('<tr><th>Term</th><th>Found Term</th><th>Evidence</th><th>Target</th><th>COVID-19 association score</th><th>PR id</th></tr>');
+                    $.each(response.entities.covid, function(i, item) {
+                        var text_term = item.text_term;
+                        var found_term = "-";
+                        if (item.found_term != null){
+                            if (item.ebi_reference != null){
+                                found_term = '<a href=' + item.ebi_reference + '>' + item.found_term + '</a>';
+                            }
+                            found_term = item.found_term;
+                        }
+                        var evidence  = "-";
+                        if (item.evidence_url != null){
+                            evidence = '<a href=' + item.evidence_url + '>' + item.found_term + '</a>';
+                        }
+                        var target = "-";
+                        if (item.target_url != null){
+                            target = '<a href=' + item.target_url + '>' + item.found_term + '</a>';
+                        }
+                        var score = "-";
+                        if (item.association_score != null){
+                            score = item.association_score;
+                        }
+                        var PR_id = "-";
+                        if (item.PR_id != null){
+                            PR_id = '<a href=https://proconsortium.org/app/entry/' + item.PR_id + '>' + item.PR_id + '</a>';
+                        }
+
+                        if (item.found_term != null){
+                            trHTML_covid += '<tr><td>' + text_term + '</td><td>' + found_term + '</td><td>' + evidence + '</td><td>' + target + '</td><td>' + score +'</td><td>' + PR_id + '</td></tr>';
+                        }
+                    });
+                    $('#covid_table').append(trHTML_covid);
+                    console.log(response.entities);
+                    var ents = response.entities;
+                    document.getElementById("result-json").value = JSON.stringify(ents, null, 2);
+                    $("#loader").hide();
+			    },
+			    error: function(error){
+			        console.log('Error' + error)
+			        $("#loader").hide();
+			        $('#error h3').remove();
+			        var error_msg = '<h3 style="color: red"><b>An error appeared during text processing</b></h3>'
+			        $('#error').append(error_msg);
+			        $("#error").show();
+			    }
+			});
+		}
+
+
+
+
+
+
+</script>
+
+</body>
+</html>

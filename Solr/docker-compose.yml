@@ -1,0 +1,10 @@
+version: '3'
+services:
+  solr:
+    image: "solr"
+    entrypoint:
+    - bash
+    - "-c"
+    - "precreate-core bioner-drugs; precreate-core bioner-diseases; precreate-core bioner-genetic; precreate-core bioner-covid; exec solr -f"
+    ports:
+     - "8983:8983"
