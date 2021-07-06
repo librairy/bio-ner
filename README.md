@@ -69,7 +69,7 @@ The [Docker Nvidia Toolkit](https://github.com/NVIDIA/nvidia-docker) is needed f
 2. `docker run --name webapp -it --gpus all --network 'host' -e SOLR_URL="http://librairy.linkeddata.es/solr/" alvaroalon2/webapp_bionlp:gpu`
 
 #### CPU Support
-If a GPU is not available, deployment can be done also on CPU. If it is the case it is recommended to use the CPU dockerized version instead of GPU:
+If a GPU is not available, deployment can be done also on CPU. If it is the case, it is recommended to use the CPU dockerized version instead of GPU:
 1. `docker pull alvaroalon2/webapp_bionlp:cpu`
 2. `docker run --name webapp -it --network 'host' -e SOLR_URL="http://librairy.linkeddata.es/solr/" alvaroalon2/webapp_bionlp:cpu`
 
