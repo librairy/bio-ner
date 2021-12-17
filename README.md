@@ -4,8 +4,9 @@
 ![Docker](https://img.shields.io/badge/docker-v3+-blue.svg)
 ![Python](https://img.shields.io/badge/python-v3+-blue.svg)
 
-## Basic Overview
+This repo is part of the development of the following Master Thesis [Named entity recognition and normalization in biomedical literature: a practical case in SARS-CoV-2 literature](https://oa.upm.es/67933/)
 
+## Basic Overview
 Biomedical Named Entity Recognition and Normalization of Diseases, Chemicals and Genenetic entity classes through the use of state-of-the-art models.
 The core piece in the modelling of the text entities recognition will be [BioBERT](https://github.com/dmis-lab/biobert-pytorch). Normalization step will be achived through inverse index search in a Solr database.
 
